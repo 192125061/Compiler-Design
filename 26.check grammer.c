@@ -27,7 +27,7 @@ int main() {
 			}
 			else if ((flag==1) and (string[count] = '\0'))
 			{
-				printf("String accepted…..!!!!");
+				printf("String acceptedâ€¦..!!!!");
 				break;
 			} 
 			else 
