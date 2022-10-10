@@ -17,7 +17,7 @@ Day-01
 
 
 
-day-02
+Day-02
 
 Write a LEX program to print all the constants in the given C source program file.
 13.	 Write a LEX program to print all HTML tags in the input file.
